@@ -16,8 +16,8 @@ Esta aplicação captura pacotes de uma interface de rede especificada e exibe e
 1. Clone o repositório:
 
    ```sh
-   git clone <https://github.com/AndreLuuiz/AnaliseRedePython.git>
-   cd <AnaliseRedePython>
+   git clone https://github.com/AndreLuuiz/AnaliseRedePython.git
+   cd AnaliseRedePython
    ```
 
 ## Arquivos
